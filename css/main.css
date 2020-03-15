@@ -136,7 +136,7 @@ svg:hover{
 /*----------------------------------------------PROJECT 01---------------------------*/
 .project01 {
     text-align: center;
-    background-color: white;
+    background-color: black;
     padding: 4vh 0 12vh 0; /*200px 0*/
     border-bottom: 1px #ebebeb solid;
     opacity:1; /*0*/
